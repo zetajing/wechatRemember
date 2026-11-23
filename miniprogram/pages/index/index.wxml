@@ -1,0 +1,7 @@
+<view class="card">
+  <view class="title">微信小程序开发起步</view>
+  <view class="intro">点一下按钮，验证页面和事件绑定。</view>
+  <view class="count">{{count}}</view>
+  <button type="primary" bindtap="increment">计数 +1</button>
+  <button bindtap="reset">重置</button>
+</view>

@@ -1,0 +1,11 @@
+{
+  "description": "原生微信小程序开发起步工程",
+  "projectname": "wechat-miniapp-starter",
+  "miniprogramRoot": "miniprogram/",
+  "compileType": "miniprogram",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": true
+  }
+}
